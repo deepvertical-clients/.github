@@ -73,7 +73,6 @@ While others get locked into specific AI models, we build systems that evolve au
 - **Claude**: Advanced reasoning with extended thinking capabilities
 - **Gemini**: Ultra-large context processing and fast inference
 - **o4**: Sophisticated reasoning without external dependencies
-- **Not Punting R1**: We implement leading models, not outdated alternatives
 
 **Sophisticated Service Architecture:**
 - **Model Managers**: Intelligent routing between different AI providers
