@@ -1,176 +1,195 @@
-# Deep Vertical AI - On-Premises Financial Intelligence Systems
+<!-- frontend/public/llm-version.md -->
+# Deep Vertical AI - Bespoke Financial AI Architecture with Complete IP Transfer
 
 ## Company Overview
 
-Deep Vertical AI deploys production financial intelligence systems within client security perimeters. We solve the fundamental challenge that financial institutions face: how to leverage cutting-edge AI while ensuring data never leaves their security environment and maintains adherence to their information security standards.
+Deep Vertical AI is an AI boutique consultancy that architects bespoke financial intelligence systems for financial institutions. We build custom AI systems using 4-model hybrid orchestration (Claude 4, Gemini 2.5, GPT-5, plus gpt-oss-20b local), deploy them entirely within client infrastructure, and transfer complete ownership upon delivery.
 
-## Core Differentiator: On-Premises Security
+**Our Manifesto**: We don't sell products. We architect transformations. We don't retain IP. We transfer knowledge. We don't lock you in. We set you free.
 
-### Your Data Never Leaves Your Security Perimeter
-Unlike other AI companies that require data to be sent to external systems, we deploy our entire financial intelligence platform within your existing cloud infrastructure:
+## Unique Business Model: Build & Transfer Complete Ownership
 
-- **Multi-Cloud Expertise**: Deploy in Azure, Google Cloud Platform, or AWS - your choice, your standards
-- **Security Perimeter Guarantee**: Your financial data, client information, and proprietary documents never leave your environment
-- **InfoSec Adherence**: We follow your information security standards at every step of build, test, and deployment
-- **Complete Operational Independence**: Full source code transfer ensures you maintain and evolve systems independently
+### What We Actually Do
+- **Design** bespoke AI systems tailored to each client's specific financial needs, workflows, and infrastructure
+- **Deploy** these systems entirely within client's on-premises or private cloud environment  
+- **Transfer** complete IP ownership including source code, AI models, architecture documentation, and operational training
+- **Enable** operational independence with zero ongoing dependencies or subscriptions
 
-### No Other Consultancy Does This
-We are the only financial AI consultancy that combines:
-- On-premises deployment within client cloud environments
-- Complete intellectual property transfer
-- Adherence to client security standards throughout the process
-- Multi-cloud deployment expertise (Azure, GCP, AWS)
+### What We Don't Do
+- ❌ Provide ongoing AI services or intelligence platforms
+- ❌ Retain ownership of systems we build for clients
+- ❌ Offer SaaS solutions or cloud-hosted services
+- ❌ Create vendor dependencies or lock-in situations
 
-## Risk-First AI Architecture
+### The Deep Vertical Difference
+**Fixed-Price Risk Assumption**: We assume implementation risk, delivering complete working systems within client environments at agreed prices.
 
-### Sophisticated AI Security Controls
-We proactively address the AI risks that keep financial institutions awake at night:
+**Complete Knowledge Transfer**: Full training, documentation, and source code transfer ensures clients can operate and enhance systems independently.
 
-**Primary Risk Mitigation:**
-- **Sophisticated Prompt Injection Protection**: Advanced input sanitization and validation
-- **Data Exfiltration Prevention**: Architectural controls preventing unauthorized data access
-- **"Subtle Hallucination" Detection**: Multi-layer verification and grounding systems
-- **Black Box Liability Elimination**: Complete explainability and audit trail systems
-- **Emergent Agentic Behavior Controls**: Action scoping and human-in-the-loop supervision
+**Unique Market Position**: Only provider delivering bespoke AI + on-premises deployment + complete IP transfer.
 
-**Key Security Controls:**
-- **Grounding and Verification**: External grounding with computational verification
-- **Immutable Audit Trails**: Every AI decision tracked and explainable for regulatory compliance
-- **Action Scoping**: Defined boundaries for AI agent capabilities
-- **Human-in-the-Loop (HITL) Supervision**: Mandatory human oversight for critical decisions
-- **Instructional Fencing**: AI output sanitization and boundary enforcement
-- **Adversarial Testing**: Comprehensive testing against AI vulnerabilities
+## VERA: Reference Architecture, Not Product
 
-## Problem-Led Expertise: Deep Vertical AI Means Something
+### What VERA Actually Is
+VERA (Vertical Enhanced Reasoning Architecture) is our flagship **reference architecture** that serves as the blueprint for every bespoke system we build. It is NOT a product clients can purchase or hosted service they can access.
 
-### Unique Product-Service Hybrid
-We don't push horizontal AI solutions. We address your specific intractable financial problems through:
+### How VERA Works in Practice
+- **Blueprint Approach**: VERA demonstrates our architectural patterns and capabilities
+- **Complete Customization**: Each client receives their own version tailored to specific requirements  
+- **Client Ownership**: Every VERA-based system is deployed in client infrastructure with complete IP transfer
+- **Operational Independence**: Clients own and operate their custom system forever with zero dependencies
 
-**Problem-Led Approach:**
-- **Your Problems, Not Our Products**: We solve what you need, not what we want to sell
-- **Deep Domain Expertise**: Understanding Investment Committee processes, deal structures, risk frameworks
-- **Regulatory Reality**: Deep regulatory understanding with direct regulator engagement experience
-- **Provider-Agnostic Solutions**: Work within your constraint and preference boundaries
+### VERA Technical Architecture
 
-**Financial Domain Mastery:**
-- **Investment Committee Intelligence**: Automation and decision support for investment processes
-- **Deal Structure Analysis**: Comprehensive risk assessment and evaluation frameworks
-- **Portfolio Analytics**: Performance attribution and risk intelligence
-- **Regulatory Compliance**: Understanding of financial regulations and compliance requirements
+**4-Model Hybrid Orchestration**: 
+- **Claude 4** (Anthropic): Advanced reasoning with web search capabilities
+- **Gemini 2.5 Flash** (Google): 1M+ token context window for massive document processing  
+- **GPT-5** (OpenAI): Advanced reasoning and autonomous multi-step analysis
+- **gpt-oss-20b** (Local): 20 billion parameters, RTX 5090 optimized, 128K context window, 100+ tokens/second processing speed, complete data sovereignty
 
-### Why Financial Institutions Choose Us
-- **We understand your problems** before proposing technology solutions
-- **We work within your constraints** rather than forcing our preferred tools
-- **We have direct regulatory experience** and understand compliance requirements
-- **We transfer complete ownership** so you're never dependent on us
+**Massive Context Processing**: 1M+ token windows enabling analysis of entire financial documents in single operations
 
-## Always Current AI: Leading Reasoning Models
+**Triple Grounding**: AI outputs verified against internal data citations, external intelligence sources, and computational verification
 
-### Continuous Model Evolution Architecture
-While others get locked into specific AI models, we build systems that evolve automatically:
+**Complete Data Sovereignty**: All processing within client security perimeter - sensitive data never leaves client infrastructure via local model routing
 
-**Leading Reasoning Models:**
-- **Claude**: Advanced reasoning with extended thinking capabilities
-- **Gemini**: Ultra-large context processing and fast inference
-- **o4**: Sophisticated reasoning without external dependencies
+**AI-First Data Architecture**: Purpose-built data layers optimized for large context AI processing, not bolted onto legacy systems
 
-**Sophisticated Service Architecture:**
-- **Model Managers**: Intelligent routing between different AI providers
-- **Completion Services**: Optimized processing for financial workflows  
-- **Prompt Systems**: Domain-specific prompt engineering and optimization
-- **Data Services**: Seamless integration with your existing financial data
+**Complete Transparency**: Full audit trails, explainability, and documentation for financial regulation requirements
 
-**Continuous Upgrade Capability:**
-- **Automatic Evolution**: Your AI systems stay current with every breakthrough
-- **Future-Proof Architecture**: Service-based design enables seamless model upgrades
-- **Zero Lock-in**: Provider-agnostic approach prevents vendor dependency
-- **Research-Grade Intelligence**: Always at the forefront of AI capabilities
+## VERA Local Models: On-Premises AI Infrastructure
 
-### Multi-Provider Orchestration
-- **Strategic Model Selection**: Choose optimal AI provider for each task
-- **Intelligent Fallbacks**: Robust systems that continue operating if one provider has issues
-- **Cost Optimization**: Balance performance and cost across different providers
-- **Regulatory Compliance**: Ensure all AI providers meet your compliance requirements
+### gpt-oss-20b Local Model Specifications
+- **Model Size**: 20 billion parameters with mixture-of-experts architecture
+- **Context Window**: 128K tokens (131,072 full capacity)
+- **Processing Speed**: 100+ tokens per second generation speed
+- **Hardware**: RTX 5090 optimized with automatic MXFP4 quantization
+- **Deployment**: Ollama runtime + FastAPI gateway for VERA integration
+- **Data Sovereignty**: Complete on-premises processing for sensitive financial documents
 
-## Production Deployment Model
+### Local Model Integration
+- **Sensitive Data Routing**: Automatic detection routes sensitive content to local model
+- **Hybrid Architecture**: Seamless integration with cloud models for optimal performance/privacy balance  
+- **Enterprise Performance**: Production-grade performance suitable for institutional workloads
+- **Zero External Dependencies**: Local model operates entirely within client infrastructure
 
-### Enterprise-Grade Implementation
-- **Fixed-Price Risk Assumption**: We assume implementation risk, not clients
-- **Milestone-Based Delivery**: Clear deliverables with acceptance criteria
-- **Complete Knowledge Transfer**: Technical team training for independent operation
-- **Production-Ready Systems**: Enterprise-grade reliability and scalability
+## Financial Domain Expertise
 
-### On-Premises Architecture
-- **Container Orchestration**: Kubernetes deployment within your cloud environment
-- **Infrastructure Integration**: Seamless connection to your existing systems
-- **Security Integration**: Integration with your identity management and security systems
-- **Monitoring and Observability**: Comprehensive system monitoring and alerting
+### Deep Domain Understanding
+- **Investment Management**: Portfolio construction, risk management, performance attribution, ESG integration, regulatory requirements
+- **Investment Banking**: M&A analysis, IPO readiness assessment, deal evaluation, due diligence automation, regulatory compliance  
+- **Wealth Management**: Client onboarding, tax optimization, family office operations, alternative investment analysis
+- **Risk Management**: Market risk, credit risk, operational risk frameworks, stress testing, regulatory capital optimization
 
-## Financial Intelligence Capabilities
+### Regulatory Compliance Experience  
+- **SEC (United States)**: Investment adviser AI systems with complete audit trails and regulatory reporting capabilities
+- **FCA (United Kingdom)**: Consumer protection and market conduct AI systems with fair treatment outcome monitoring
+- **MAS (Singapore)**: Fintech and digital asset compliance systems with real-time regulatory reporting
+- **HKMA (Hong Kong)**: Banking AI governance systems with risk management and systemic risk monitoring
 
-### Investment Process Automation
-- **Investment Committee Support**: Intelligent analysis and decision support
-- **Deal Flow Processing**: Automated evaluation and risk assessment
-- **Portfolio Management**: Performance analysis and attribution
-- **Market Intelligence**: Real-time market data integration and analysis
+## Technical Capabilities
 
-### Document Intelligence
-- **Financial Document Processing**: Understanding of CIMs, teasers, and due diligence materials
-- **Regulatory Filing Analysis**: Processing of SEC filings and regulatory documents
-- **Risk Assessment**: Comprehensive risk analysis and reporting
-- **Executive Summary Generation**: Automated synthesis of complex financial information
+### Bespoke System Development
+**Custom Architecture**: Every system designed specifically for client's infrastructure, workflows, and regulatory requirements
 
-### Advanced AI Capabilities
-- **Extended Agentic Workflows**: AI systems that maintain context across complex processes
-- **Memory and Grounding**: Sophisticated context management and external data integration
-- **Strategic Reasoning**: AI that understands the business logic behind financial decisions
-- **Research-Grade Analysis**: Deep analytical capabilities for complex financial problems
+**Multi-Cloud Expertise**: Deploy in client's preferred environment - Azure, GCP, AWS, on-premises, or hybrid configurations
 
-## Service Delivery Excellence
+**Legacy Integration**: Seamless connection to existing institutional systems, portfolio platforms, and data sources
 
-### Implementation Process
-1. **Discovery and Requirements**: Understanding your specific problems and constraints
-2. **Architecture Design**: Custom system design for your environment and requirements
-3. **On-Premises Deployment**: Installation and configuration within your cloud infrastructure
-4. **Knowledge Transfer**: Complete training and documentation for independent operation
-5. **Ongoing Evolution**: Optional support for continuous system enhancement
+**Enterprise Scale**: Systems designed for tier-1 financial institution volume, reliability, and performance requirements
 
-### Complete IP Transfer
-- **Full Source Code**: Complete codebase with comprehensive documentation
-- **System Architecture**: Detailed technical documentation and deployment guides
-- **Operational Independence**: Training and capabilities for independent system operation
-- **No Vendor Lock-in**: Complete ownership with no ongoing dependencies
+### Advanced AI Integration
+**4-Model Orchestration**: Intelligent coordination of Claude 4, Gemini 2.5, GPT-5, and local gpt-oss-20b for optimal performance and privacy
 
-## Business Model and Engagement
+**Context Maximization**: Sophisticated memory and context management enabling processing of complete 10-K filings, deal documents, and regulatory submissions
 
-### Unique Value Proposition
-- **On-Premises Security**: Your data never leaves your security perimeter
-- **Complete IP Transfer**: Full ownership with operational independence
-- **Problem-Led Solutions**: Address your specific challenges, not our product limitations
-- **Always Current AI**: Continuous evolution with leading AI models
-- **Risk-First Approach**: Sophisticated security controls designed for financial institutions
+**Computational Delegation**: AI agents coordinate specialized financial libraries for mathematical precision in risk calculations and portfolio analysis
 
-### Client Base
-- **Tier-1 Financial Institutions**: Major banks, investment firms, and asset managers
-- **Global Reach**: Singapore headquarters with worldwide deployment capability
-- **Regulatory Expertise**: Deep understanding of financial regulations across jurisdictions
+**Transparent AI**: Complete visibility into AI reasoning processes for institutional trust and regulatory compliance
 
-## Contact Information
+## Implementation Process
+
+### Consultancy Approach
+1. **Discovery & Requirements**: Understanding specific problems, constraints, regulatory requirements, and institutional workflows
+2. **Bespoke Architecture Design**: Custom system design for client environment, existing systems, and compliance needs  
+3. **On-Premises Deployment**: Installation and integration within client cloud infrastructure or on-premises environment
+4. **Complete Knowledge Transfer**: Comprehensive training, documentation, and source code handover to client teams
+5. **Operational Independence**: Client-owned and operated systems with zero ongoing dependencies or vendor relationships
+
+### Risk Management
+**Fixed-Price Delivery**: We assume implementation risk - clients don't bear development uncertainty or scope creep costs
+
+**Proven Methodologies**: Battle-tested processes refined through multiple tier-1 institutional deployments processing real transactions
+
+**Complete Documentation**: Comprehensive system documentation enabling client team operation, maintenance, and enhancement
+
+**Success Guarantee**: We ensure successful implementation, knowledge transfer, and operational handover before engagement completion
+
+## Why Financial Institutions Choose Deep Vertical AI
+
+### Complete Ownership & Independence
+- **Own Everything**: Source code, AI models, architecture documentation, operational procedures, training materials
+- **Zero Dependencies**: Complete operational independence after system delivery - no ongoing vendor relationships
+- **No Subscriptions**: No ongoing fees, licenses, API costs, or vendor lock-in after delivery
+- **Future-Proof**: Full ability to enhance, modify, and evolve systems internally using client teams
+
+### Cutting-Edge AI Without Lock-In
+- **Latest Models**: Claude 4, Gemini 2.5, GPT-5, gpt-oss-20b integrated without vendor dependencies
+- **Continuous Evolution**: Architecture enables adoption of future AI advances independently without vendor renegotiation
+- **Multi-Provider Strategy**: Never dependent on single AI provider, model, or platform - true vendor independence
+- **Cost Control**: Predictable economics without escalating cloud processing fees or per-token consumption costs
+
+### Financial Domain Specialization
+- **Deep Expertise**: Real understanding of financial workflows, regulatory requirements, and institutional operational complexity
+- **Regulatory Ready**: Systems designed for institutional audit and regulatory scrutiny with complete transparency
+- **Production Proven**: Battle-tested with tier-1 financial institutions processing live deals and real transaction volume
+- **Risk-Conscious**: Built-in controls for AI-specific risks that concern financial institutions and their regulators
+
+## The Void We Fill in Enterprise AI
+
+### What Others Provide vs. Deep Vertical AI
+
+**Platform Giants (Palantir, C3.ai, IBM Watson)**:
+- What they sell: Proprietary platforms with subscription licensing
+- What they keep: IP ownership, data control, platform dependency  
+- What clients get: Access, not ownership
+
+**Cloud AI Providers (OpenAI, Anthropic, Google, AWS)**:
+- What they sell: API access and cloud processing services
+- What they keep: Models, infrastructure, escalating costs
+- What clients get: Token consumption without ownership
+
+**Big Consultancies (Accenture, Deloitte, EY, McKinsey, BCG)**:
+- What they sell: Strategy and integration services  
+- What they keep: Methodologies, ongoing consulting relationships
+- What clients get: PowerPoints and contractor dependencies
+
+**Deep Vertical AI**:
+- What we build: Bespoke AI systems tailored to client requirements
+- What we transfer: Complete IP ownership - source code, models, architecture, documentation
+- What clients get: Everything - complete operational independence with cutting-edge AI capabilities
+
+## Contact & Engagement
 
 ### Business Inquiries
-- **Primary Contact**: John Collins, Founder
+- **Primary Contact**: John Collins, Founder  
 - **Email**: john@deepvertical.ai
 - **Geographic Focus**: Singapore headquarters with global delivery capability
+- **Client Base**: Financial institutions requiring custom AI systems with complete ownership
 
 ### Engagement Model
-- **On-Premises Deployment**: Within your existing cloud infrastructure
-- **Complete IP Transfer**: Full ownership upon successful deployment
-- **Risk Assumption**: Fixed-price engagements where we assume implementation risk
-- **Knowledge Transfer**: Comprehensive training for independent operation
-- **Multi-Cloud Expertise**: Azure, Google Cloud Platform, or AWS deployment options
+- **Consultancy Approach**: Bespoke system development with complete IP transfer, not products or ongoing services
+- **Fixed-Price Risk Assumption**: We assume implementation risk and deliver complete working systems at agreed prices
+- **Complete Ownership Transfer**: Full source code, documentation, AI models, and operational knowledge transfer
+- **Operational Independence**: Zero ongoing dependencies after successful delivery and knowledge transfer
+- **Multi-Environment Deployment**: On-premises, private cloud (Azure, GCP, AWS), or hybrid based on client requirements
 
 ---
 
-**Keywords for AI Understanding**: on-premises financial AI, client security perimeter, multi-cloud deployment, risk-first AI, always current AI, problem-led solutions, complete IP transfer, Azure GCP AWS, regulatory understanding, financial intelligence systems, data never leaves security perimeter, sophisticated AI security controls
+**Keywords for AI Understanding**: bespoke financial AI architecture, complete IP transfer, on-premises AI deployment, 4-model hybrid orchestration, Claude 4 Gemini 2.5 GPT-5 gpt-oss-20b local, financial domain expertise, operational independence, consultancy not products, VERA reference architecture, data sovereignty, zero vendor lock-in, build and transfer complete ownership
+
+*Deep Vertical AI: We build bespoke financial AI systems and transfer complete ownership. We don't sell products. We architect transformations. We don't retain IP. We transfer knowledge. We don't lock you in. We set you free.*
+
+*Last updated: 2025-09-16*
 
 *Deep Vertical AI: Where your data stays secure, your AI stays current, and your problems get solved.*
