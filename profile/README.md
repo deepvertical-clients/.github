@@ -23,5 +23,5 @@ Client projects follow the naming convention: `{client}-{project}`
 ---
 
 **Website:** https://deepvertical.ai  
-**Contact via website:** https://deepvertical.ai
+**Contact via website:** https://deepvertical.ai   
 **Location:** Singapore
